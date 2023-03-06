@@ -1,0 +1,2 @@
+cambiando el test2.txt, ahora desde nano
+
